@@ -13,13 +13,27 @@ We develop computational and experimental approaches to decode RNA regulation an
 
 <p>
 <b>Principal Investigator:</b>
+<p>
 <b>Yanqiang Li</b> is a Professor at the First Affiliated Hospital of Xi’an Jiaotong University and a PhD supervisor in Bioinformatics.
-He earned his bioinformatics Ph.D. from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, in 2016, where he was mentored by Prof. Renyi Liu.
+</p>
+
+<p>
+He earned his Ph.D. in Bioinformatics from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, in 2016, where he was mentored by Prof. Renyi Liu.
+</p>
+
+<p>
 In August 2016, he began postdoctoral training in human epigenetics at Johns Hopkins University under the mentorship of Prof. Zhibin Wang.
-From July 2018 to October 2020, he continued his postdoctoral research on computional biology at Houston Methodist Hospital / Weill University e with Prof. Kaifu Chen.
+From July 2018 to October 2020, he continued his postdoctoral research in computational biology at Houston Methodist Hospital / Weill Cornell Medicine with Prof. Kaifu Chen.
+</p>
+
+<p>
 He subsequently joined Harvard Medical School and Boston Children’s Hospital in Prof. Chen’s laboratory, where he conducted further bioinformatics research and was appointed Instructor in October 2022.
+</p>
+
+<p>
 In March 2025, he joined the First Affiliated Hospital of Xi’an Jiaotong University as Professor.
 His research focuses on tumor-associated RNA modifications, computational epitranscriptomics, long-read sequencing technologies, and molecular mechanisms of cancer.
+</p>
 </p>
 <span class="badge">Nanopore direct RNA-seq</span>
 <span class="badge">RNA modifications (Nm, Ψ, m6A)</span>
