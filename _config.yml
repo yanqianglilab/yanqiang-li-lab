@@ -27,3 +27,5 @@ navigation:
     link: /join/
   - name: Contact
     link: /contact/
+include:
+  - _pages
