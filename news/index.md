@@ -12,7 +12,7 @@ nav:
 Our research on the functional implications of RNA modifications in cancer biology has been accepted for publication in *Nature Communications*.
 
 **Jan 2026**  
-We have sumitted our first review paper titled “Applications of Single-Cell Long-Read Sequencing Technologies in Cancer”, the undergraduate students Zijie Ding is the first author.
+We have sumitted our first review paper titled “Applications of Single-Cell Long-Read Sequencing Technologies in Cancer”, the undergraduate student Zijie Ding is the first author.
 
 ---
 
