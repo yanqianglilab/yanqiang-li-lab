@@ -10,9 +10,9 @@ title: Home
     with a focus on Nanopore direct RNA sequencing and cancer epitranscriptomics.
   </p>
 
-  <p><b>PI:</b> Yanqiang Li — Professor; Xi’an Jiaotong University Young Top Talent (Category A); PhD Supervisor</p>
+  <p><b>PI:</b> Yanqiang Li — Professor; The First Affiliated Hospital of Xi'an Jiaotong University, PhD Supervisor</p>
 
-  <span class="badge">Nanopore dRNA-seq</span>
+  <span class="badge">Nanopore direct RNA-seq</span>
   <span class="badge">RNA modifications (Nm, Ψ, m6A)</span>
   <span class="badge">Computational biology</span>
   <span class="badge">Cancer epigenetics</span>
