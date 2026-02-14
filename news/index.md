@@ -26,8 +26,5 @@ Dr. Hang Qin has joined the lab as an assistant professor – warm welcome!
 **June 2025**  
 Our research on the protocols of mapping Nm modifications using NanoNm has been accepted for publication in *STAR Protocols*.
 
----
-
-## 2024
-**March 2024**  
+**March 2025**  
 Dr. Yanqiang Li joined the First Affiliated Hospital of Xi’an Jiaotong University as Principal Investigator, and the Epigenetics & Computational RNA Biology Lab was officially established.
