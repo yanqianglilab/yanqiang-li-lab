@@ -26,7 +26,7 @@ permalink: /publications/
 
 9. Xinlei Gao, Yang Yi, Jie Lv, **Yanqiang Li**, Arulsamy K, Sahana Suresh Babu, Ivone Bruno, Lili Zhang, Qi Cao, … Low RNA stability signifies strong expression regulatability of tumor suppressors. Nucleic Acids Research 51(21):11534–11548 (2023)
 
-10. Yifan Lv†, Fan Xia†, Jing Yu†, Yunlu Sheng, Yi Jin, **Yanqiang Li**^, Guoxian Ding^. Distinct response of adipocyte progenitors to glucocorticoids determines visceral obesity via the TEAD1-miR-27b-PRDM16 axis. Obesity 31(9):2335-2348 (2023)
+10. Yifan Lv†, Fan Xia†, Jing Yu†, Yunlu Sheng, Yi Jin, **Yanqiang Li**^, Guoxian Ding^. **Distinct response of adipocyte progenitors to glucocorticoids determines visceral obesity via the TEAD1-miR-27b-PRDM16 axis**. Obesity 31(9):2335-2348 (2023)
 
 11. Yang Yi, **Yanqiang Li**, Kaifu Chen, Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget 14:127 (2023)
 
@@ -34,7 +34,7 @@ permalink: /publications/
 
 13. **Yanqiang Li**†, Yang Yi†, Jie Lv, Xinlei Gao, Yang Yu, Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Hong Chen, Qi Cao^, Lili Zhang^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene expression.** Nucleic Acids Research 51(12):6020-6038 (2023)
 
-14. Yang Yi†, **Yanqiang Li**†, Chao Li†, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. Methylation-dependent and -independent roles of EZH2 coordinately contribute to CDCA8 activation in prostate cancer. Oncogene (2022)
+14. Yang Yi†, **Yanqiang Li**†, Chao Li†, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **Methylation-dependent and -independent roles of EZH2 coordinately contribute to CDCA8 activation in prostate cancer**. Oncogene (2022)
 
 15. Dongyu Zhao†, Min Zhang†, Shaodong Liu, Qi Liu, Sen Zhu, **Yanqiang Li**, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang^, Kaifu Chen^. CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells. Nucleic Acids Research 50(21):12186-12201 (2022)
 
