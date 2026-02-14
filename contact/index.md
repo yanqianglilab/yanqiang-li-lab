@@ -1,10 +1,11 @@
 ---
+title: Contact
 nav:
   order: 7
   tooltip: Contact the lab
 ---
 
-# Principal Investigator
+## Principal Investigator
 
 **Yanqiang Li, Ph.D.**  
 Professor, Department of Urology  
@@ -16,7 +17,7 @@ The First Affiliated Hospital of Xi’an Jiaotong University
 
 ---
 
-# Lab Address
+## Lab Address
 
 **Epigenetics & Computational RNA Biology Lab**  
 Department of Urology  
@@ -26,6 +27,8 @@ Xi’an, Shaanxi, China
 
 ---
 
+### Collaboration Inquiries
+
 If you are interested in collaboration, please email with:
 - Short introduction
 - Research interest
@@ -33,10 +36,10 @@ If you are interested in collaboration, please email with:
 
 ---
 
-# Students & Positions
+## Students & Positions
 
 We are always looking for:
-- Postdoctoral fellows
+- Assistant Professors / Postdoctoral fellows
 - PhD students
 - Master students
 - Visiting scholars
@@ -52,7 +55,7 @@ to the PI email above.
 
 ---
 
-## Response Time
+### Response Time
 
 Due to the high volume of emails, responses may take several days.  
 If your inquiry is urgent, please include **[URGENT]** in the subject line.
