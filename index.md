@@ -11,7 +11,7 @@ title: Home
   </p>
 
   <p><b>PI:</b> <b>Yanqiang Li</b> is a Professor at The First Affiliated Hospital of Xi’an Jiaotong University and a PhD supervisor in bioinformatics. 
-    I received his Ph.D. from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, in 2016 under the supervision of Prof. Renyi Liu. 
+    I received my Ph.D. from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, in 2016 under the supervision of Prof. Renyi Liu. 
 I subsequently completed postdoctoral training in bioinformatics at Johns Hopkins University with Prof. Zhibin Wang (2016–2018), followed by further postdoctoral research at Houston Methodist Hospital / Weill Cornell Medicine with Prof. Kaifu Chen (2018–2020). 
 I later joined Harvard Medical School and Boston Children’s Hospital, where he continued his research in Kaifu Chen’s laboratory and was appointed Instructor in 2022. 
 In March 2025, I joined The First Affiliated Hospital of Xi’an Jiaotong University as a Professor. 
