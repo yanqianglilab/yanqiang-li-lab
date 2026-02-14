@@ -46,7 +46,7 @@ permalink: /people/
   <ul class="list-tight">
     <li><b>Qian Tian</b></li>
     <p class="small" style="margin:5px 0 0 0;">
-      Qian is engaged in two key lab projects: environmental epitranscriptomics research and the development of deep learning-based computational software for Nanopore direct RNA-seq data analysis. His work focuses on building AI models to improve the detection accuracy of low-abundance RNA modifications in cancer-related samples.
+      Qian is engaged in two key lab projects: environmental epitranscriptomics research and the development of deep learning-based computational software for Nanopore direct RNA-seq data analysis. Her work focuses on building AI models to improve the detection accuracy of low-abundance RNA modifications in cancer-related samples.
     </p>
   </ul>
 </div>
