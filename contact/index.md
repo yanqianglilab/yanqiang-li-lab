@@ -1,5 +1,4 @@
 ---
-title: Contact
 nav:
   order: 7
   tooltip: Contact the lab
