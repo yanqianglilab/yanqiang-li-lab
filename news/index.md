@@ -1,25 +1,26 @@
 ---
-title: News
+title: Lab News
 nav:
   order: 6
   tooltip: Latest updates and achievements from the lab
 ---
 
-## Lab News
-
 ---
 
-### 2026
+## 2026
 **Feb 2026**  
 Our research on the functional implications of RNA modifications in cancer biology has been accepted for publication in *Nature Communications*.
 
+**Jan 2026**  
+We have sumitted our first review paper titled “Applications of Single-Cell Long-Read Sequencing Technologies in Cancer”, the undergraduate students Zijie Ding is the first author.
+
 ---
 
-### 2025
+## 2025
 **Oct 2025**  
 We are pleased to welcome new undergraduate students (incoming master students) to our Lab!
 
-**Sep 2025**  
+**Aug 2025**  
 Dr. Hang Qin has joined the lab as an assistant professor – warm welcome!
 
 **June 2025**  
@@ -27,6 +28,6 @@ Our research on the protocols of mapping Nm modifications using NanoNm has been 
 
 ---
 
-### 2024
+## 2024
 **March 2024**  
 Dr. Yanqiang Li joined the First Affiliated Hospital of Xi’an Jiaotong University as Principal Investigator, and the Epigenetics & Computational RNA Biology Lab was officially established.
