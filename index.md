@@ -23,7 +23,7 @@ title: Home
     <div class="card">
       <h3>Research Themes</h3>
       <ul class="list-tight">
-        <li><b>AI-enabled Nanopore sequencing</b> for sensitive detection of low-abundance RNA modifications.</li>
+        <li><b>AI-enabled Nanopore sequencing</b> for sensitive detection of low-abundance, hard-to-localize RNA modifications.</li>
         <li><b>Mechanisms in urological cancers</b> driven by dysregulated RNA modification pathways.</li>
         <li><b>Therapeutic strategies</b> targeting RNA modification regulators for precision oncology.</li>
       </ul>
@@ -39,6 +39,7 @@ title: Home
       <ul class="list-tight">
         <li><b>2024</b>. 2’-O-Methylation at internal site on mRNA promotes RNA stability. <i>Molecular Cell</i>.</li>
         <li><b>2023</b>. Low RNA stability signifies increased post-transcriptional regulation of cell identity gene expression. <i>Nucleic Acids Research</i>.</li>
+        <li><b>2021</b>. A PRC2-independent function for EZH2 in regulating rRNA 2′-O methylation and IRES-dependent translation. <i>Nature Cell Biology</i>.</li>
       </ul>
       <p style="margin-top:10px;">
         Full list: <a href="{{ "/publications/" | relative_url }}">Publications</a>.
