@@ -5,7 +5,6 @@ nav:
   tooltip: Latest updates and achievements from the lab
 ---
 
-# News
 ## Lab News
 
 ---
