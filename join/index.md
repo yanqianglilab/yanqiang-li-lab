@@ -4,8 +4,6 @@ nav:
   tooltip: Join our lab
 ---
 
-# <i class="fas fa-users"></i> Join Us
-
 Our lab focuses on **RNA bioinformatics, epitranscriptomics, and cancer biology**, 
 with particular interests in:
 
@@ -16,6 +14,20 @@ with particular interests in:
 - computational tool development
 
 We welcome highly motivated students and researchers who are interested in combining **computational biology + experimental RNA science**.
+
+---
+
+## 🧪 Postdoctoral Fellows
+
+We are continuously seeking postdocs with background in:
+
+- RNA biology
+- bioinformatics
+- cancer genomics
+- machine learning in biology
+
+Strong publication record preferred.
+
 
 ---
 
@@ -37,19 +49,6 @@ Preferred skills:
 - strong motivation
 
 No prior RNA modification experience required.
-
----
-
-## 🧪 Postdoctoral Fellows
-
-We are continuously seeking postdocs with background in:
-
-- RNA biology
-- bioinformatics
-- cancer genomics
-- machine learning in biology
-
-Strong publication record preferred.
 
 ---
 
