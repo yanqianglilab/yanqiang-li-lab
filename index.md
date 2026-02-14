@@ -23,11 +23,11 @@ He earned his Ph.D. in Bioinformatics from the Shanghai Institutes for Biologica
 
 <p>
 In August 2016, he began postdoctoral training in human epigenetics at Johns Hopkins University under the mentorship of Prof. Zhibin Wang.
-From July 2018 to October 2020, he continued his postdoctoral research in computational biology at Houston Methodist Hospital / Weill Cornell Medicine with Prof. Kaifu Chen.
+From July 2018 to October 2020, he continued his postdoctoral research in computational biology at Houston Methodist Hospital / Cornell University with Prof. Kaifu Chen.
 </p>
 
 <p>
-He subsequently joined Harvard Medical School and Boston Children’s Hospital in Prof. Chen’s laboratory, where he conducted further bioinformatics research and was appointed Instructor in October 2022.
+He subsequently moved Harvard Medical School and Boston Children’s Hospital with Prof. Chen’s laboratory, where he conducted further bioinformatics research and was appointed Instructor in October 2022.
 </p>
 
 <p>
