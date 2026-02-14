@@ -36,7 +36,7 @@ permalink: /people/
 <div style="height:16px"></div>
 
 <div class="card">
-  <h3>Visiting Student (Master)</h3>
+  <h3>Master Student (Visiting)</h3>
   <ul class="list-tight">
     <li><b>Qian Tian</b></li>
   </ul>
@@ -45,7 +45,7 @@ permalink: /people/
 <div style="height:16px"></div>
 
 <div class="card">
-  <h3>Visiting Students (Undergraduate)</h3>
+  <h3>Undergraduate Students (Visiting/Intern Students)</h3>
   <ul class="list-tight">
     <li><b>Yaxuan Zhang</b></li>
     <li><b>Yang Dong</b></li>
