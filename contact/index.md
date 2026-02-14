@@ -14,8 +14,8 @@ Professor, Department of Urology
 The First Affiliated Hospital of Xi’an Jiaotong University
 
 📧 Email: **[yanqiang.li@xjtu.edu.cn](mailto:yanqiang.li@xjtu.edu.cn)**  
-🌐 Google Scholar: [https://scholar.google.com/citations?hl=zh-CN&user=7e-6szgAAAAJ&view_op=list_works&sortby=pubdate](https://scholar.google.com/citations?hl=zh-CN&user=7e-6szgAAAAJ&view_op=list_works&sortby=pubdate)  
-💻 Lab Website: [https://yanqianglilab.github.io/](https://yanqianglilab.github.io/)
+🌐 Google Scholar: [scholar.google.com/citations?user=7e-6szgAAAAJ](https://scholar.google.com/citations?user=7e-6szgAAAAJ)  
+💻 Lab Website: [yanqianglilab.github.io](https://yanqianglilab.github.io/)
 
 ---
 
