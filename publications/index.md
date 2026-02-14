@@ -4,7 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
 † co-first authorship; ^ co-corresponding authorship; **Bold title** indicates selected representative research.
 
 ## Papers
