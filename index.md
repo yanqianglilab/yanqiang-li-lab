@@ -10,7 +10,7 @@ title: Home
     with a focus on Nanopore direct RNA sequencing and cancer epitranscriptomics.
   </p>
 
-  <p><b>PI:</b> Yanqiang Li — Professor; The First Affiliated Hospital of Xi'an Jiaotong University, PhD Supervisor</p>
+  <p><b>PI:</b> Yanqiang Li — Professor; The First Affiliated Hospital of Xi'an Jiaotong University; PhD Supervisor</p>
 
   <span class="badge">Nanopore direct RNA-seq</span>
   <span class="badge">RNA modifications (Nm, Ψ, m6A)</span>
@@ -79,8 +79,5 @@ title: Home
       <p>Email: <a href="mailto:yanqiang.li@xjtu.edu.cn">yanqiang.li@xjtu.edu.cn</a></p>
       <p><a href="{{ "/contact/" | relative_url }}">More contact info →</a></p>
     </div>
-  </div>
-</div>
- </div>
   </div>
 </div>
