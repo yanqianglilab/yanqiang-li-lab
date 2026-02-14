@@ -4,9 +4,7 @@ nav:
   tooltip: Contact the lab
 ---
 
-# <i class="fas fa-envelope"></i> Contact
-
-## Principal Investigator
+# Principal Investigator
 
 **Yanqiang Li, Ph.D.**  
 Professor, Department of Urology  
@@ -18,7 +16,7 @@ The First Affiliated Hospital of Xi’an Jiaotong University
 
 ---
 
-## Lab Address
+# Lab Address
 
 **Epigenetics & Computational RNA Biology Lab**  
 Department of Urology  
@@ -35,7 +33,7 @@ If you are interested in collaboration, please email with:
 
 ---
 
-## Students & Positions
+# Students & Positions
 
 We are always looking for:
 - Postdoctoral fellows
