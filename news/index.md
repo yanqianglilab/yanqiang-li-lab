@@ -20,7 +20,7 @@ Our research on the functional implications of RNA modifications in cancer biolo
 We are pleased to welcome new graduate students to the Epigenetics & Computational RNA Biology Lab!
 
 **Sep 2025**  
-Dr. Hang Qin has joined the lab as a research fellow – warm welcome!
+Dr. Hang Qin has joined the lab as an assistant professor – warm welcome!
 
 ---
 
