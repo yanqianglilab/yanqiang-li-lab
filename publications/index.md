@@ -14,7 +14,7 @@ permalink: /publications/
 
 3. Yang Yi, Joshua Fry, Chaehyun Yum, Rui Wang, Siqi Wu, Sharath Narayan, Qi Liu, Xingxing Zhang, Htoo Zarni Oo, Ning Xie, **Yanqiang Li**, Xinlei Gao, Xufen Yu, Xiaoping Hu, Qiaqia Li, Kemal Keseroglu, Ertuğrul M. Özbudak, Sarki A. Abdulkadir, Kaifu Chen, Jian Jin, Jonathan C. Zhao, Xuesen Dong, Daniel Arango, Rendong Yang, Qi Cao. **Crosstalk between EZH2 and m6A promotes prostate cancer progression through modulating an m6A autoregulation pathway.** The Journal of Clinical Investigation 2025 Nov 18:e195840 (2026)
 
-4. Alexander J. Lu, Michael Graber, **Yanqiang Li**, Shuang Li, Kaylee Carter, Elisa Morales, Eric Nagueh, Crystina L. Kriss, Kaifu Chen, John P. Cooke^, Li Lai^. O-GlcNAcylation promotes angiogenic transdifferentiation to reverse ischemia. Nature Cardiovascular Research (2025):1-17
+4. Shuang Li, Alexander J. Lu, Michael Graber, **Yanqiang Li**, Kaylee Carter, Elisa Morales, Eric Nagueh, Crystina L. Kriss, Kaifu Chen, John P. Cooke^, Li Lai^. O-GlcNAcylation promotes angiogenic transdifferentiation to reverse ischemia. Nature Cardiovascular Research (2025):1-17
 
 5. **Yanqiang Li**^, Jiayi Chen, Yunxia Wang, Jiahan Li, Yang Yi, Lili Zhang, Qi Cao, Kaifu Chen^. **Protocol for mapping 2’O-Methylation using nanopore direct RNA-seq data with NanoNm.** STAR Protocols 6(3):104003 (2025)
 
