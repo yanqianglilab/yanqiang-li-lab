@@ -6,7 +6,7 @@ nav:
 ---
 
 # <i class="fas fa-tools"></i>Software and Database
-**[Nm dection pipeline](https://github.com/YanqiangLi/STAR_Protocol) (Star Protocols, 2024):**
+**[Nm dection pipeline](https://github.com/YanqiangLi/STAR_Protocol) (STAR Protocols, 2024):**
 Protocol for mapping 2′-O-Methylation using nanopore direct RNA-seq data with NanoNm.
 
 **[NanoNm](https://github.com/kaifuchenlab/NanoNm) (Molecular Cell, 2024):**
