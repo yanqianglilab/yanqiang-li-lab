@@ -1,5 +1,4 @@
 ---
-title: join
 nav:
   order: 6
   tooltip: Join our lab
