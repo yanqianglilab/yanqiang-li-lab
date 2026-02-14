@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-## Overview
 
 The Epigenetics & Computational RNA Biology Group conducts both fundamental and translational research on RNA regulation in cancer. Our work combines computational biology, long-read sequencing technologies, and experimental molecular biology to uncover how RNA processing and RNA modifications control tumor development and therapeutic response.
 
