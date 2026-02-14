@@ -22,10 +22,13 @@ The First Affiliated Hospital of Xi’an Jiaotong University
 
 ## Lab Address
 
-**RNA Bioinformatics Lab**
+**Epigenetics & Computational RNA Biology Lab**
+
 Department of Urology
+
 The First Affiliated Hospital of Xi’an Jiaotong University
 
+277 West Yanta Road
 Xi’an, Shaanxi, China
 
 ---
@@ -42,9 +45,9 @@ If you are interested in collaboration, please email with:
 
 We are always looking for:
 
+* Postdoctoral fellows
 * PhD students
 * Master students
-* Postdoctoral fellows
 * Visiting scholars
 
 Backgrounds in **bioinformatics, computer science, genomics, molecular biology, or medicine** are encouraged.
