@@ -27,7 +27,7 @@ His research focuses on RNA modifications, computational epitranscriptomics, and
 <div class="grid">
   <div class="col-8">
     <div class="card">
-      <h3>Research Themes</h3>
+      <h3>Research Directions</h3>
       <ul class="list-tight">
         <li><b>AI-enabled Nanopore sequencing</b> for sensitive detection of low-abundance, hard-to-localize RNA modifications.</li>
         <li><b>Mechanisms in urological cancers</b> driven by dysregulated RNA modification pathways.</li>
