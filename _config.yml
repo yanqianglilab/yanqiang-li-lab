@@ -19,8 +19,8 @@ navigation:
     link: /people/
   - name: Publications
     link: /publications/
-  - name: Software
-    link: /software/
+  - name: Resource
+    link: /resource/
   - name: News
     link: /news/
   - name: Join
