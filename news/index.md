@@ -10,7 +10,7 @@ nav:
 ---
 
 ### 2026
-**Jan 2026**  
+**Feb 2026**  
 Our research on the functional implications of RNA modifications in cancer biology has been accepted for publication in *Nature Communications*.
 
 ---
@@ -21,6 +21,9 @@ We are pleased to welcome new undergraduate students (incoming master students) 
 
 **Sep 2025**  
 Dr. Hang Qin has joined the lab as an assistant professor – warm welcome!
+
+**June 2025**  
+Our research on the protocols of mapping Nm modifications using NanoNm has been accepted for publication in *STAR Protocols*.
 
 ---
 
