@@ -4,6 +4,7 @@ title: Home
 ---
 
 <div class="hero">
+<h1>Introduction</h1>
 
 <p>
 We develop computational and experimental approaches to decode RNA regulation and epitranscriptomic mechanisms, with a particular focus on Nanopore direct RNA sequencing, RNA modifications, and cancer biology.
