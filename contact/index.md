@@ -53,9 +53,3 @@ Please send:
 
 to the PI email above.
 
----
-
-### Response Time
-
-Due to the high volume of emails, responses may take several days.  
-If your inquiry is urgent, please include **[URGENT]** in the subject line.
