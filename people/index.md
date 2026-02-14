@@ -23,7 +23,7 @@ permalink: /people/
   <p style="margin:0 0 6px 0;"><b>Hang Qin, Ph.D.</b></p>
   <p class="small" style="margin:0 0 10px 0;">Assistant Professor</p>
   <p class="small" style="margin:0;">
-    Dr. Hang Qin is the first developer of the DENA software for high-sensitivity m6A modification detection. His research focuses on developing advanced computational and deep learning approaches for biomedical data analysis, with a specialized interest in decoding epitranscriptomic landscapes from high-throughput sequencing data (including Nanopore long-reads). He collaborates on lab projects to integrate machine learning with RNA modification research for urologic cancer studies.
+    Dr. Hang Qin is the first author of the DENA software (Genome Biology 2022) for m6A modification detection with nanopore dRNA-seq. His research focuses on developing advanced computational and deep learning approaches for nanopore dRNA-seq data analysis, with a specialized interest in decoding epitranscriptomic landscapes from high-throughput sequencing data (including Nanopore long-reads). He collaborates on lab projects to integrate machine learning with RNA modification research for urologic cancer studies.
   </p>
 </div>
 
