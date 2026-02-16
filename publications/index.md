@@ -35,7 +35,8 @@ permalink: /publications/
 13. **Yanqiang Li**†, Yang Yi†, Jie Lv, Xinlei Gao, Yang Yu, Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Hong Chen, Qi Cao^, Lili Zhang^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene expression.** Nucleic Acids Research 51(12):6020-6038 (2023)
 
 14. Yang Yi†, **Yanqiang Li**†, Chao Li†, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **Methylation-dependent and -independent roles of EZH2 coordinately contribute to CDCA8 activation in prostate cancer**. Oncogene (2022)
-15. Yanqiang Li, Jia Meng, Dongyu Zhao.Editorial: RNA editing and modification in development and diseases.Frontiers in Genetics 12 (2022)
+
+15. Yanqiang Li, Jia Meng, Dongyu Zhao.Editorial: RNA editing and modification in development and diseases. Frontiers in Genetics 12 (2022)
 
 17. Dongyu Zhao†, Min Zhang†, Shaodong Liu, Qi Liu, Sen Zhu, **Yanqiang Li**, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang^, Kaifu Chen^. CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells. Nucleic Acids Research 50(21):12186-12201 (2022)
 
