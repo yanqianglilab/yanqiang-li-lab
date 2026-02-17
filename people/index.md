@@ -12,7 +12,7 @@ permalink: /people/
     Department of Urology, The First Affiliated Hospital of Xi’an Jiaotong University
   </p>
   <p class="small" style="margin:0;">
-    Dr. Yanqiang Li leads the Epigenetics & Computational RNA Biology Laboratory, with a core research focus on urologic oncology and epitranscriptomics. His work integrates Nanopore direct RNA sequencing (dRNA-seq) and AI-driven computational methods to develop high-precision detection tools for RNA modifications (2'-O-methylation, m6A, A-to-I editing). He elucidates the functional mechanisms of dysregulated RNA modification pathways in prostate cancer and other urologic tumors, and builds integrative multi-omics pipelines to investigate RNA stability and post-transcriptional gene regulation. The lab’s ultimate goal is to translate these molecular insights into clinical applications, including RNA modification-based biomarker discovery and targeted therapeutic strategy development for precision oncology.
+    Yanqiang leads the Lab, with a core research focus on urologic oncology and epitranscriptomics. His work integrates Nanopore direct RNA sequencing (dRNA-seq) and AI-driven computational methods to develop high-precision detection tools for RNA modifications (2'-O-methylation, m6A, A-to-I editing). He elucidates the functional mechanisms of dysregulated RNA modification pathways in prostate cancer and other urologic tumors, and builds integrative multi-omics pipelines to investigate RNA stability and post-transcriptional gene regulation. The lab’s ultimate goal is to translate these molecular insights into clinical applications, including RNA modification-based biomarker discovery and targeted therapeutic strategy development for precision oncology.
   </p>
 </div>
 
@@ -23,7 +23,7 @@ permalink: /people/
   <p style="margin:0 0 6px 0;"><b>Hang Qin, Ph.D.</b></p>
   <p class="small" style="margin:0 0 10px 0;">Assistant Professor</p>
   <p class="small" style="margin:0;">
-    Dr. Hang Qin is the first author of the DENA software (Genome Biology 2022) for m6A modification detection with nanopore dRNA-seq. His research focuses on developing advanced computational and deep learning approaches for nanopore dRNA-seq data analysis, with a specialized interest in decoding epitranscriptomic landscapes from high-throughput sequencing data (including Nanopore long-reads). He collaborates on lab projects to integrate machine learning with RNA modification research for urologic cancer studies.
+    Hang is the first author of the DENA software (Genome Biology 2022) for m6A modification detection with nanopore dRNA-seq. His research focuses on developing advanced computational and deep learning approaches for nanopore dRNA-seq data analysis, with a specialized interest in decoding epitranscriptomic landscapes from high-throughput sequencing data (including Nanopore long-reads). He collaborates on lab projects to integrate machine learning with RNA modification research for urologic cancer studies.
   </p>
 </div>
 
