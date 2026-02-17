@@ -30,7 +30,7 @@ permalink: /publications/
 
 11. Yang Yi, **Yanqiang Li**, Kaifu Chen, Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget 14:127 (2023)
 
-12. Jie Lv, Shu Meng, Qilin Gu, Rongbin Zheng, Xinlei Gao, Jun-dae Kim, Min Chen, Bo Xia, Yihan Zuo, Sen Zhu, Dongyu Zhao, **Yanqiang Li**, Guangyu Wang, Xin Wang, Qingshu Meng, Qi Cao, John P. Cooke, Longhou Fang, Kaifu Chen & Lili Zhang.Epigenetic landscape reveals MECOM as an endothelial lineage regulator. Nature Communications 14(1):2390 (2023)
+12. Jie Lv, Shu Meng, Qilin Gu, Rongbin Zheng, Xinlei Gao, Jun-dae Kim, Min Chen, Bo Xia, Yihan Zuo, Sen Zhu, Dongyu Zhao, **Yanqiang Li**, Guangyu Wang, Xin Wang, Qingshu Meng, Qi Cao, John P. Cooke, Longhou Fang, Kaifu Chen & Lili Zhang. Epigenetic landscape reveals MECOM as an endothelial lineage regulator. Nature Communications 14(1):2390 (2023)
 
 13. **Yanqiang Li**†, Yang Yi†, Jie Lv, Xinlei Gao, Yang Yu, Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Hong Chen, Qi Cao^, Lili Zhang^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene expression.** Nucleic Acids Research 51(12):6020-6038 (2023)
 
