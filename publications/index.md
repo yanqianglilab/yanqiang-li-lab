@@ -53,28 +53,29 @@ permalink: /publications/
 23. Dana M Freeman, Dan Lou, **Yanqiang Li**, SN Martos, Zhibin Wang. The conserved DNMT1-dependent methylation regions in human cells are vulnerable to neurotoxicant rotenone exposure. Epigenetics & Chromatin 13(1):116 (2020)
 
 24. Jianyu Zhao, Li Jiang, Gen Che, Yupeng Pan, **Yanqiang Li**, Yu Hou, Wensheng Zhao, Yanting Zhong, Lian Ding, Shuangshuang Yan, Chengzhen Sun, Renyi Liu, Liying Yan, Tao Wu, Xuexian Li, Yiqun Weng, Xiaolan Zhang^. A functional allele of CsFUL1 regulates fruit length through repressing CsSUP and inhibiting auxin transport in cucumber. The Plant Cell 31(6):1289-1300 (2019)
-
-25. Qingzhu Zhang†, Dong Wang†, Zhaobo Lang†, Li He, Lan Yang, Liang Zeng, **Yanqiang Li**, Cheng Zhao, Huan Huang, Heng Zhang, Huiming Zhang, Jian-Kang Zhu^. Methylation interactions in Arabidopsis hybrids require RNA-directed DNA methylation and are influenced by genetic variation. Proceedings of the National Academy of Sciences 113(29):E4248-E4256 (2016)
-
-26. Qingzhu Zhang, **Yanqiang Li**, Tao Xu, Dong Wang, Liang Zeng, Lan Yang, Li He, Heng Zhang, Zhimin Zheng, DongLei Yang, Cheng Zhao, Juan Dong, Zhizhong Gong, Renyi Liu, Jian-Kang Zhu^. The chromatin remodeler DDM1 promotes hybrid vigor by regulating salicylic acid metabolism. Cell Discovery 2:16027 (2016)
-
-27. Jianyu Zhao†, **Yanqiang Li**†, Lian Ding†, Shuangshuang Yan, Meiling Liu, Xiaofeng Liu, Li Jiang, Wensheng Zhao, Kang Ning, Gen Che, Mengxue Xia, Zijing Chen, Qian Wang, Liying Yan, Renyi Liu^, Xiaolan Zhang^. Phloem transcriptome signatures underpin the physiological differentiation of the pedicel, stalk and fruit of cucumber. Plant and Cell Physiology 57(1):19-34 (2016)
-
-28. Chengzhen Sun†, **Yanqiang Li**†, Wensheng Zhao, Xiaofei Song, Man Lu, Xiaoli Li, Renyi Liu^, Liying Yan^, Xiaolan Zhang^. Integration of hormonal and nutritional cues orchestrates progressive corolla opening in the female flower in cucumber. Plant Physiology 171:1209-1229 (2016)
-
-29. Xiaoying Pan†, Md. Mahmudul Hasan†, **Yanqiang Li**†, Chengsong Liao, Renyi Liu^, Xuexian Li^. Asymmetric transcriptomic signatures between the cob and florets in the maize ear. Journal of Experimental Botany 66(20):6149-6166 (2015)
-
-30. Li Jiang†, Shuangshuang Yan†, Huazhong Ren, **Yanqiang Li**, Mengxue Xia, Wencai Yang, Qian Wang, Liying Yan, Xiaofei Song, Renyi Liu^, Xiaolan Zhang^. Comparative transcriptomic analysis reveals the roles of microtubule-related genes. Scientific Reports 5:8031 (2015)
-
-31. Chunlian Wang†, Xiaoping Zhang†, Yinglun Fan†, Ying Gao, Qinlong Zhu, Chongke Zheng, Tengfei Qin, **Yanqiang Li**, Jinying Che, Mingwei Zhang, Bing Yang, Yaoguang Liu, Kaijun Zhao^. XA23 is an executor R protein. Molecular Plant 8(2):290-302 (2015)
-
-32. Lihua Zhao, Jiangman He, Hanyang Cai, Haiyan Lin, **Yanqiang Li**, Renyi Liu, Zhenbiao Yang, Yuan Qin^. Comparative expression profiling reveals novel gene functions in female meiosis. The Plant Journal 80(4):615-628 (2014)
-
-33. Yan Zhu†, **Yanqiang Li**†, Dan Lou, Yang Gao, Jing Yu, Dehui Kong, Qiang Zhang, Yankai Jia, Haimou Zhang, Zhibin Wang^. Arsenite exposure inhibits histone acetyltransferase p300. Toxicology and Applied Pharmacology 357:70-79 (2018)
+    
+26. Yan Zhu†, **Yanqiang Li**†, Dan Lou, Yang Gao, Jing Yu, Dehui Kong, Qiang Zhang, Yankai Jia, Haimou Zhang, Zhibin Wang^. Arsenite exposure inhibits histone acetyltransferase p300. Toxicology and Applied Pharmacology 357:70-79 (2018)
 
 34. Dongdong Niu, Xin Zhang, Xiaoou Song, Zhihui Wang, **Yanqiang Li**, Lulu Qiao, Zhaoyun Wang, Junzhong Liu, Yiwen Deng, Zuhua He, Donglei Yang, Renyi Liu, Yanli Wang, Hongwei Zhao^. Deep Sequencing Uncovers Rice Long siRNAs. Phytopathology 108(1):60-69 (2018)
 
 35. Daisuke Miki, Peiying Zhu, Wencan Zhang, Yanfei Mao, Zhengyan Feng, Huan Huang, Hui Zhang, **Yanqiang Li**, Renyi Liu, Huiming Zhang, Yijun Qi, Jian-Kang Zhu^. Efficient generation of diRNAs requires components in the posttranscriptional gene silencing pathway. Scientific Reports 7(1):1-11 (2017)
+
+26. Qingzhu Zhang†, Dong Wang†, Zhaobo Lang†, Li He, Lan Yang, Liang Zeng, **Yanqiang Li**, Cheng Zhao, Huan Huang, Heng Zhang, Huiming Zhang, Jian-Kang Zhu^. Methylation interactions in Arabidopsis hybrids require RNA-directed DNA methylation and are influenced by genetic variation. Proceedings of the National Academy of Sciences 113(29):E4248-E4256 (2016)
+
+27. Qingzhu Zhang, **Yanqiang Li**, Tao Xu, Dong Wang, Liang Zeng, Lan Yang, Li He, Heng Zhang, Zhimin Zheng, DongLei Yang, Cheng Zhao, Juan Dong, Zhizhong Gong, Renyi Liu, Jian-Kang Zhu^. The chromatin remodeler DDM1 promotes hybrid vigor by regulating salicylic acid metabolism. Cell Discovery 2:16027 (2016)
+
+28. Jianyu Zhao†, **Yanqiang Li**†, Lian Ding†, Shuangshuang Yan, Meiling Liu, Xiaofeng Liu, Li Jiang, Wensheng Zhao, Kang Ning, Gen Che, Mengxue Xia, Zijing Chen, Qian Wang, Liying Yan, Renyi Liu^, Xiaolan Zhang^. Phloem transcriptome signatures underpin the physiological differentiation of the pedicel, stalk and fruit of cucumber. Plant and Cell Physiology 57(1):19-34 (2016)
+
+29. Chengzhen Sun†, **Yanqiang Li**†, Wensheng Zhao, Xiaofei Song, Man Lu, Xiaoli Li, Renyi Liu^, Liying Yan^, Xiaolan Zhang^. Integration of hormonal and nutritional cues orchestrates progressive corolla opening in the female flower in cucumber. Plant Physiology 171:1209-1229 (2016)
+
+30. Xiaoying Pan†, Md. Mahmudul Hasan†, **Yanqiang Li**†, Chengsong Liao, Renyi Liu^, Xuexian Li^. Asymmetric transcriptomic signatures between the cob and florets in the maize ear. Journal of Experimental Botany 66(20):6149-6166 (2015)
+
+31. Li Jiang†, Shuangshuang Yan†, Huazhong Ren, **Yanqiang Li**, Mengxue Xia, Wencai Yang, Qian Wang, Liying Yan, Xiaofei Song, Renyi Liu^, Xiaolan Zhang^. Comparative transcriptomic analysis reveals the roles of microtubule-related genes. Scientific Reports 5:8031 (2015)
+
+32. Chunlian Wang†, Xiaoping Zhang†, Yinglun Fan†, Ying Gao, Qinlong Zhu, Chongke Zheng, Tengfei Qin, **Yanqiang Li**, Jinying Che, Mingwei Zhang, Bing Yang, Yaoguang Liu, Kaijun Zhao^. XA23 is an executor R protein. Molecular Plant 8(2):290-302 (2015)
+
+33. Lihua Zhao, Jiangman He, Hanyang Cai, Haiyan Lin, **Yanqiang Li**, Renyi Liu, Zhenbiao Yang, Yuan Qin^. Comparative expression profiling reveals novel gene functions in female meiosis. The Plant Journal 80(4):615-628 (2014)
+
     
 36.  Xiaoping Zhang, Chunlian Wang, Chongke Zheng, Jinying Che, **Yanqiang Li**, Kaijun Zhao^. HrcQ is necessary for Xanthomonas pathogenicity. The Crop Journal 1(2):143-150 (2013)
 
