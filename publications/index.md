@@ -36,7 +36,7 @@ permalink: /publications/
 
 14. Yang Yi†, **Yanqiang Li**†, Chao Li†, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **Methylation-dependent and -independent roles of EZH2 coordinately contribute to CDCA8 activation in prostate cancer**. Oncogene (2022)
 
-15. **Yanqiang Li**^, Jia Meng, Dongyu Zhao.Editorial: RNA editing and modification in development and diseases. Frontiers in Genetics 12 (2022)
+15. **Yanqiang Li**^, Jia Meng, Dongyu Zhao. Editorial: RNA editing and modification in development and diseases. Frontiers in Genetics 12 (2022)
 
 17. Dongyu Zhao†, Min Zhang†, Shaodong Liu, Qi Liu, Sen Zhu, **Yanqiang Li**, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang^, Kaifu Chen^. CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells. Nucleic Acids Research 50(21):12186-12201 (2022)
 
