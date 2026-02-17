@@ -9,10 +9,10 @@ nav:
 
 ## 2026
 **Feb 2026**  
-Our research on the functional implications of A to I editing  in prostate cancer has been accepted for publication in *Nature Communications*.
+Our research on the functional implications of EZH and A to I editing in prostate cancer has been accepted for publication in *Nature Communications*.
 
 **Jan 2026**  
-We have sumitted our first review paper titled “Applications of Single-Cell Long-Read Sequencing Technologies in Cancer”, the undergraduate student Zijie Ding is the first author.
+We have submitted our first review paper titled “Applications of Single-Cell Long-Read Sequencing Technologies in Cancer”, the undergraduate student Zijie Ding is the first author.
 
 ---
 
