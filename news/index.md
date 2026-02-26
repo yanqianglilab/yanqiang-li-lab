@@ -9,6 +9,9 @@ nav:
 
 ## 2026
 **Feb 2026**  
+
+We are delighted to share exciting news: our invited Spotlight manuscript, “AHCY–adenosine complex links m⁶A and cancer lipid metabolism” has been accepted for publication in *Trends in Biochemical Sciences* on Feb 26, This first publication from our lab marks a wonderful milestone and a great start to the Chinese New Year. Congratulations to Hang! 🎉
+
 Our research on the functional implications of EZH and A to I editing in prostate cancer has been accepted for publication in *Nature Communications*.
 
 **Jan 2026**  
