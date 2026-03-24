@@ -2,7 +2,6 @@
 layout: page
 title: People
 permalink: /people/
-markdown: false
 ---
 
 <div class="card">
@@ -20,7 +19,7 @@ markdown: false
   </p>
 </div>
 
-<div class="card-spacer"></div>
+<br>
 
 <div class="card">
   <h3>Faculty</h3>
@@ -36,7 +35,7 @@ markdown: false
   </p>
 </div>
 
-<div class="card-spacer"></div>
+<br>
 
 <div class="card">
   <h3>Research Assistants</h3>
@@ -58,7 +57,7 @@ markdown: false
   </ul>
 </div>
 
-<div style="height:16px;"></div>
+<br>
 
 <div class="card">
   <h3>Master Student (Visiting)</h3>
@@ -73,7 +72,7 @@ markdown: false
   </ul>
 </div>
 
-<div style="height:16px;"></div>
+<br>
 
 <div class="card">
   <h3>Undergraduate Students (Visiting / Intern)</h3>
