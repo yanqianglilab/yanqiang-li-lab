@@ -14,7 +14,7 @@ permalink: /people/
   </p>
 
   <p class="small">
-    Dr. Li leads the laboratory with a primary research focus on urologic oncology and epitranscriptomics. His work integrates Nanopore direct RNA sequencing (dRNA-seq) with AI-driven computational approaches to develop high-precision detection tools for RNA modifications, including 2'-O-methylation, m6A, and A-to-I editing. He investigates the functional consequences of dysregulated RNA modification pathways in prostate cancer and other urologic malignancies, and develops integrative multi-omics pipelines to study RNA stability and post-transcriptional gene regulation. The long-term goal of the laboratory is to translate mechanistic insights into clinical applications, including RNA modification-based biomarker discovery and precision therapeutic strategies.
+    Yanqiang leads the laboratory with a primary research focus on urologic oncology and epitranscriptomics. His work integrates Nanopore direct RNA sequencing (dRNA-seq) with AI-driven computational approaches to develop high-precision detection tools for RNA modifications, including 2'-O-methylation, m6A, and A-to-I editing. He investigates the functional consequences of dysregulated RNA modification pathways in prostate cancer and other urologic malignancies, and develops integrative multi-omics pipelines to study RNA stability and post-transcriptional gene regulation. The long-term goal of the laboratory is to translate mechanistic insights into clinical applications, including RNA modification-based biomarker discovery and precision therapeutic strategies.
   </p>
 </div>
 
@@ -30,7 +30,7 @@ permalink: /people/
   </p>
 
   <p class="small">
-    Dr. Qin is the first author of the DENA software (Genome Biology, 2022), a computational tool for m6A detection using nanopore dRNA-seq. His research focuses on developing advanced computational and deep learning methodologies for nanopore transcriptomic analysis, with particular expertise in decoding epitranscriptomic landscapes from long-read sequencing data. He collaborates on laboratory projects that integrate machine learning with RNA modification research in urologic cancers.
+    Hang is the first author of the DENA software (Genome Biology, 2022), a computational tool for m6A detection using nanopore dRNA-seq. His research focuses on developing advanced computational and deep learning methodologies for nanopore transcriptomic analysis, with particular expertise in decoding epitranscriptomic landscapes from long-read sequencing data. He collaborates on laboratory projects that integrate machine learning with RNA modification research in urologic cancers.
   </p>
 </div>
 
@@ -50,7 +50,7 @@ permalink: /people/
     <li>
       <strong>Huanmin Jiao</strong>
       <p class="small">
-        Huanmin specializes in nanopore RNA-seq, DNA-seq, and single-cell long-read RNA-seq analysis. She oversees data processing workflows, quality control, and downstream bioinformatic analyses for collaborative projects. Her work supports the lab’s core research in epitranscriptomics and urologic oncology.
+        Huanmin specializes in nanopore RNA-seq, DNA-seq, and single-cell long-read RNA-seq analysis for the laboratory and collaborators in the Department of Urology. She oversees data processing workflows, quality control, and downstream bioinformatic analyses for collaborative projects. Her work supports the lab’s core research in epitranscriptomics and urologic oncology.
       </p>
     </li>
   </ul>
