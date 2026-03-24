@@ -8,6 +8,10 @@ nav:
 ---
 
 ## 2026
+**Mar 2026**  
+
+We are pleased to welcome new member Huanmin Jiao to our Lab as reseach assistant!
+
 **Feb 2026**  
 
 We are delighted to share exciting news: our invited Spotlight manuscript, “AHCY–adenosine complex links m⁶A and cancer lipid metabolism” has been accepted for publication in *Trends in Biochemical Sciences* on Feb 26, This first publication from our lab marks a wonderful milestone and a great start to the Chinese New Year. Congratulations to Hang! 🎉
