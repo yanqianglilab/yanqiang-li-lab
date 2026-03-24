@@ -12,76 +12,87 @@ permalink: /people/
     Department of Urology, The First Affiliated Hospital of Xi’an Jiaotong University
   </p>
   <p class="small" style="margin:0;">
-    Yanqiang leads the Lab, with a core research focus on urologic oncology and epitranscriptomics. His work integrates Nanopore direct RNA sequencing (dRNA-seq) and AI-driven computational methods to develop high-precision detection tools for RNA modifications (2'-O-methylation, m6A, A-to-I editing). He elucidates the functional mechanisms of dysregulated RNA modification pathways in prostate cancer and other urologic tumors, and builds integrative multi-omics pipelines to investigate RNA stability and post-transcriptional gene regulation. The lab’s ultimate goal is to translate these molecular insights into clinical applications, including RNA modification-based biomarker discovery and targeted therapeutic strategy development for precision oncology.
+    Dr. Li leads the laboratory with a primary research focus on urologic oncology and epitranscriptomics. His work integrates Nanopore direct RNA sequencing (dRNA-seq) with AI-driven computational approaches to develop high-precision detection tools for RNA modifications, including 2'-O-methylation, m6A, and A-to-I editing. He investigates the functional consequences of dysregulated RNA modification pathways in prostate cancer and other urologic malignancies, and develops integrative multi-omics pipelines to study RNA stability and post-transcriptional gene regulation. The long-term goal of the laboratory is to translate mechanistic insights into clinical applications, including RNA modification-based biomarker discovery and precision therapeutic strategies.
   </p>
 </div>
 
-<div style="height:16px"></div>
+<div style="height:16px;"></div>
 
 <div class="card">
   <h3>Faculty</h3>
   <p style="margin:0 0 6px 0;"><b>Hang Qin, Ph.D.</b></p>
   <p class="small" style="margin:0 0 10px 0;">Assistant Professor</p>
   <p class="small" style="margin:0;">
-    Hang is the first author of the DENA software (Genome Biology 2022) for m6A modification detection with nanopore dRNA-seq. His research focuses on developing advanced computational and deep learning approaches for nanopore dRNA-seq data analysis, with a specialized interest in decoding epitranscriptomic landscapes from high-throughput sequencing data (including Nanopore long-reads). He collaborates on lab projects to integrate machine learning with RNA modification research for urologic cancer studies.
+    Dr. Qin is the first author of the DENA software (Genome Biology, 2022), a computational tool for m6A detection using nanopore dRNA-seq. His research focuses on developing advanced computational and deep learning methodologies for nanopore transcriptomic analysis, with particular expertise in decoding epitranscriptomic landscapes from long-read sequencing data. He collaborates on laboratory projects that integrate machine learning with RNA modification research in urologic cancers.
   </p>
 </div>
 
-<div style="height:16px"></div>
+<div style="height:16px;"></div>
 
 <div class="card">
   <h3>Research Assistants</h3>
   <ul class="list-tight">
-    
     <li>
       <b>Wenyue Huang</b>
       <p class="small" style="margin:5px 0 0 0;">
-        Wenyue leads and executes multi-omics data analysis projects for the lab and collaborators in the Department of Urology. Her expertise includes RNA-seq, DNA-seq, and single-cell RNA-seq data processing, quality control, and downstream bioinformatics analysis. She provides technical and analytical support for the lab’s core epitranscriptomics and cancer research initiatives.
+        Wenyue conducts multi-omics data analysis for the laboratory and collaborators in the Department of Urology. Her expertise includes RNA-seq, DNA-seq, and single-cell RNA-seq data processing, quality control, and downstream bioinformatic analysis. She provides analytical and technical support for the lab’s epitranscriptomic and cancer research programs.
       </p>
     </li>
 
     <li>
       <b>Huanmin Jiao</b>
       <p class="small" style="margin:5px 0 0 0;">
-        Huanmin oversees and conducts multi-omics data analysis for the lab and collaborative projects within the Department of Urology. Her work focuses on nanopore RNA-seq, DNA-seq, and single-cell long-read RNA-seq data processing, quality control, and downstream bioinformatics analysis. She supports the lab’s central epitranscriptomics and cancer research programs.
+        Huanmin specializes in nanopore RNA-seq, DNA-seq, and single-cell long-read RNA-seq analysis. She oversees data processing workflows, quality control, and downstream bioinformatic analyses for collaborative projects. Her work supports the lab’s core research in epitranscriptomics and urologic oncology.
       </p>
     </li>
-
   </ul>
-</div>>
+</div>
 
-<div style="height:16px"></div>
+<div style="height:16px;"></div>
 
 <div class="card">
   <h3>Master Student (Visiting)</h3>
   <ul class="list-tight">
-    <li><b>Qian Tian</b></li>
-    <p class="small" style="margin:5px 0 0 0;">
-      Qian is engaged in two key lab projects: environmental epitranscriptomics research and the development of deep learning-based computational software for Nanopore direct RNA-seq data analysis. Her work focuses on building AI models to improve the detection accuracy of low-abundance RNA modifications in cancer-related samples.
-    </p>
+    <li>
+      <b>Qian Tian</b>
+      <p class="small" style="margin:5px 0 0 0;">
+        Qian is involved in environmental epitranscriptomics research and the development of deep learning-based computational tools for Nanopore direct RNA-seq analysis. Her work focuses on building AI models to improve the detection accuracy of low-abundance RNA modifications in cancer-related samples.
+      </p>
+    </li>
   </ul>
 </div>
 
-<div style="height:16px"></div>
+<div style="height:16px;"></div>
 
 <div class="card">
-  <h3>Undergraduate Students (Visiting/Intern)</h3>
+  <h3>Undergraduate Students (Visiting / Intern)</h3>
   <ul class="list-tight">
-    <li><b>Yaxuan Zhang</b></li>
-    <p class="small" style="margin:5px 0 0 0;">
-      Yaxuan works on epitranscriptomic research in cell models, investigating RNA modification profiles and their regulatory roles in cancer cell proliferation and migration.
-    </p>
-    <li><b>Yang Dong</b></li>
-    <p class="small" style="margin:5px 0 0 0;">
-      Yang focuses on kidney cancer epitranscriptomics, analyzing RNA modification patterns in kidney cancer samples and exploring the association between aberrant RNA modifications and tumor progression.
-    </p>
-    <li><b>Yajie Qi</b></li>
-    <p class="small" style="margin:5px 0 0 0;">
-      Yajie is involved in single-cell long-read sequencing research for cancer samples, processing and analyzing Nanopore single-cell data to characterize cell-type-specific RNA modification landscapes in urologic tumors.
-    </p>
-    <li><b>Zijie Ding</b></li>
-    <p class="small" style="margin:5px 0 0 0;">
-      Zijie collaborates on single-cell long-read sequencing projects for cancer research (finished an review manuscript within three months!!), focusing on the integration of single-cell transcriptomics and epitranscriptomics data to identify novel cancer cell subpopulations and their RNA modification features.
-    </p>
+    <li>
+      <b>Yaxuan Zhang</b>
+      <p class="small" style="margin:5px 0 0 0;">
+        Yaxuan conducts epitranscriptomic studies in cell models, investigating RNA modification profiles and their regulatory roles in cancer cell proliferation and migration.
+      </p>
+    </li>
+
+    <li>
+      <b>Yang Dong</b>
+      <p class="small" style="margin:5px 0 0 0;">
+        Yang focuses on kidney cancer epitranscriptomics, analyzing RNA modification patterns in tumor samples and exploring their association with cancer progression.
+      </p>
+    </li>
+
+    <li>
+      <b>Yajie Qi</b>
+      <p class="small" style="margin:5px 0 0 0;">
+        Yajie participates in single-cell long-read sequencing projects, processing and analyzing nanopore single-cell data to characterize cell-type-specific RNA modification landscapes in urologic tumors.
+      </p>
+    </li>
+
+    <li>
+      <b>Zijie Ding</b>
+      <p class="small" style="margin:5px 0 0 0;">
+        Zijie contributes to single-cell long-read sequencing research, focusing on the integration of transcriptomic and epitranscriptomic datasets to identify novel cancer cell subpopulations and their RNA modification features. He recently completed a comprehensive review manuscript within three months.
+      </p>
+    </li>
   </ul>
 </div>
