@@ -30,18 +30,25 @@ permalink: /people/
 <div style="height:16px"></div>
 
 <div class="card">
-  <h3>Research Assistant</h3>
+  <h3>Research Assistants</h3>
   <ul class="list-tight">
-    <li><b>Wenyue Huang</b></li>
-    <p class="small" style="margin:5px 0 0 0;">
-      Wenyue oversees and executes multi-omics data analysis projects for the lab and collaborative partners in the Department of Urology, including RNA-seq, DNA-seq, and single-cell RNA-seq data processing, quality control, and downstream bioinformatic analysis. She provides technical support for the lab’s core epitranscriptomic and cancer research projects.
+    
+    <li>
+      <b>Wenyue Huang</b>
+      <p class="small" style="margin:5px 0 0 0;">
+        Wenyue leads and executes multi-omics data analysis projects for the lab and collaborators in the Department of Urology. Her expertise includes RNA-seq, DNA-seq, and single-cell RNA-seq data processing, quality control, and downstream bioinformatics analysis. She provides technical and analytical support for the lab’s core epitranscriptomics and cancer research initiatives.
+      </p>
+    </li>
 
-    <li><b>Huanmin Jiao</b></li>
-    <p class="small" style="margin:5px 0 0 0;">
-      Huanmin oversees and executes multi-omics data analysis projects for the lab and collaborative partners in the Department of Urology, including nanopore RNA-seq, DNA-seq, and single-cell long reads RNA-seq data processing, quality control, and downstream bioinformatic analysis. She provides technical support for the lab’s core epitranscriptomic and cancer research projects.
-    </p>
+    <li>
+      <b>Huanmin Jiao</b>
+      <p class="small" style="margin:5px 0 0 0;">
+        Huanmin oversees and conducts multi-omics data analysis for the lab and collaborative projects within the Department of Urology. Her work focuses on nanopore RNA-seq, DNA-seq, and single-cell long-read RNA-seq data processing, quality control, and downstream bioinformatics analysis. She supports the lab’s central epitranscriptomics and cancer research programs.
+      </p>
+    </li>
+
   </ul>
-</div>
+</div>>
 
 <div style="height:16px"></div>
 
