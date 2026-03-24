@@ -35,6 +35,10 @@ permalink: /people/
     <li><b>Wenyue Huang</b></li>
     <p class="small" style="margin:5px 0 0 0;">
       Wenyue oversees and executes multi-omics data analysis projects for the lab and collaborative partners in the Department of Urology, including RNA-seq, DNA-seq, and single-cell RNA-seq data processing, quality control, and downstream bioinformatic analysis. She provides technical support for the lab’s core epitranscriptomic and cancer research projects.
+
+    <li><b>Huanmin Jiao</b></li>
+    <p class="small" style="margin:5px 0 0 0;">
+      Huanmin oversees and executes multi-omics data analysis projects for the lab and collaborative partners in the Department of Urology, including nanopore RNA-seq, DNA-seq, and single-cell long reads RNA-seq data processing, quality control, and downstream bioinformatic analysis. She provides technical support for the lab’s core epitranscriptomic and cancer research projects.
     </p>
   </ul>
 </div>
