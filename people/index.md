@@ -40,6 +40,7 @@ permalink: /people/
   <h3>Research Assistants</h3>
 
   <ul class="list-tight">
+
     <li>
       <strong>Wenyue Huang</strong>
       <p class="small">
@@ -50,13 +51,14 @@ permalink: /people/
     <li>
       <strong>Huanmin Jiao</strong>
       <p class="small">
-        Huanmin specializes in nanopore RNA-seq, DNA-seq, and single-cell long-read RNA-seq analysis for the laboratory and collaborators in the Department of Urology. She oversees data processing workflows, quality control, and downstream bioinformatic analyses for collaborative projects. Her work supports the lab’s core research in epitranscriptomics and urologic oncology.
+        Huanmin specializes in nanopore RNA-seq, DNA-seq, and single-cell long-read RNA-seq analysis. She oversees data processing workflows, quality control, and downstream bioinformatic analyses for collaborative projects. Her work supports the lab’s core research in epitranscriptomics and urologic oncology.
       </p>
     </li>
+
   </ul>
 </div>
 
-<div class="card-spacer"></div>
+<div style="height:16px;"></div>
 
 <div class="card">
   <h3>Master Student (Visiting)</h3>
@@ -69,14 +71,16 @@ permalink: /people/
       </p>
     </li>
   </ul>
+
 </div>
 
-<div class="card-spacer"></div>
+<div style="height:16px;"></div>
 
 <div class="card">
   <h3>Undergraduate Students (Visiting / Intern)</h3>
 
   <ul class="list-tight">
+
     <li>
       <strong>Yaxuan Zhang</strong>
       <p class="small">
@@ -104,5 +108,6 @@ permalink: /people/
         Zijie contributes to single-cell long-read sequencing research, focusing on the integration of transcriptomic and epitranscriptomic datasets to identify novel cancer cell subpopulations and their RNA modification features. He recently completed a comprehensive review manuscript within three months.
       </p>
     </li>
+
   </ul>
 </div>
