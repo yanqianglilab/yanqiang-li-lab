@@ -14,18 +14,8 @@ We develop computational and experimental approaches to decode RNA regulation an
 <b>Principal Investigator:</b>
 <p>
 <b>Yanqiang Li</b> is a Professor at the First Affiliated Hospital of Xi’an Jiaotong University and a PhD supervisor in Bioinformatics.
-</p>
-
-<p>
 He earned his Ph.D. in Bioinformatics from the Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, in 2016, where he was mentored by Dr. Renyi Liu.
-</p>
-
-<p>
-In August 2016, he began postdoctoral training in human epigenetics at Johns Hopkins University under the mentorship of Dr. Zhibin Wang.
-From July 2018 to October 2020, he continued his postdoctoral research in computational biology at Houston Methodist Hospital / Cornell University with Dr. Kaifu Chen.
-</p>
-
-<p>
+In August 2016, he began postdoctoral training in human epigenetics at Johns Hopkins University under the mentorship of Dr. Zhibin Wang. From July 2018 to October 2020, he continued his postdoctoral training in computational biology at Houston Methodist Hospital and Weill Cornell Medicine under the supervision of Dr. Kaifu Chen.
 He subsequently moved Harvard Medical School and Boston Children’s Hospital with Kaifu’s laboratory, where he conducted further bioinformatics research and was promoted to Instructor in October 2022.
 </p>
 
@@ -72,6 +62,10 @@ See <a href="{{ "/research/" | relative_url }}">Research</a> for details.
 <h3>Selected Publications</h3>
 
 <ul class="list-tight">
+  
+<li><b>2026</b>. Adenosylhomocysteinase–adenosine complex links m6A and cancer lipid metabolism. <i>Trends in Biochemical Sciences</i>.</li>
+  
+<li><b>2026</b>. A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR. <i>Nature Communications</i>.</li>
 
 <li><b>2024</b>. 2’-O-Methylation at internal sites on mRNA promotes RNA stability. <i>Molecular Cell</i>.</li>
 
