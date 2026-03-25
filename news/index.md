@@ -10,7 +10,7 @@ nav:
 ## 2026
 **Mar 2026**  
 
-We are pleased to welcome new member Huanmin Jiao to our Lab as reseach assistant!
+We are pleased to welcome Huanmin Jiao to join our lab as a Research Assistant! 
 
 **Feb 2026**  
 
