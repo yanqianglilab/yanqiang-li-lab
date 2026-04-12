@@ -8,7 +8,8 @@ permalink: /publications/
 
 ## Papers
 
-1.Yang Yu, Gaopeng Xian, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, **Yanqiang Li**, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis. Circulation. (Accepted, 2026)
+1.Yang Yu, Gaopeng Xian, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, **Yanqiang Li**, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis. Circulation.(Accepted, 2026)
+
 2. **Hang Qin**, **Yajie Qi**, **Yanqiang Li**†. **Adenosylhomocysteinase–adenosine complex links m6A and cancer lipid metabolism.** Trends in Biochemical Sciences.  10.1016/j.tibs.2026.02.016. (2026)
 
 3.  Yang Yi†, **Yanqiang Li**†, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR.** Nature Communications (in press, 2026)
