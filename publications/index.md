@@ -8,53 +8,54 @@ permalink: /publications/
 
 ## Papers
 
-1. **Hang Qin**, **Yajie Qi**, **Yanqiang Li**†. **Adenosylhomocysteinase–adenosine complex links m6A and cancer lipid metabolism.** Trends in Biochemical Sciences.  10.1016/j.tibs.2026.02.016. (2026)
+1.Yang Yu, Gaopeng Xian, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, **Yanqiang Li**, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis. Circulation. (Accepted, 2026)
+2. **Hang Qin**, **Yajie Qi**, **Yanqiang Li**†. **Adenosylhomocysteinase–adenosine complex links m6A and cancer lipid metabolism.** Trends in Biochemical Sciences.  10.1016/j.tibs.2026.02.016. (2026)
 
-2.  Yang Yi†, **Yanqiang Li**†, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR.** Nature Communications (in press, 2026)
+3.  Yang Yi†, **Yanqiang Li**†, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR.** Nature Communications (in press, 2026)
 
-3. Lei Li, Qi Ye, Jinlu Ma, Zixi Wang, Tianjie Liu, Yuzeshi Lei, Mingming Lu, Jialu Kang, Haohan Xiang, Buyun Li, Shan Xu, Ke Wang, Yule Chen, Jiaqi Chen, Bohan Ma, Wenyue Huang, Mengjiao Cai, Nan Wu, **Yanqiang Li**, Jiale An, Chongming Jiang, Rui Ye, Jing Liu, Steven H. Lin, Yang Gao, Jian Ma, Lei Li. Ubiquitination-directed cytosolic DNA degradation governs cGAS-STING-mediated immune response to DNA damage. Cancer Cell (2026)
+4. Lei Li, Qi Ye, Jinlu Ma, Zixi Wang, Tianjie Liu, Yuzeshi Lei, Mingming Lu, Jialu Kang, Haohan Xiang, Buyun Li, Shan Xu, Ke Wang, Yule Chen, Jiaqi Chen, Bohan Ma, Wenyue Huang, Mengjiao Cai, Nan Wu, **Yanqiang Li**, Jiale An, Chongming Jiang, Rui Ye, Jing Liu, Steven H. Lin, Yang Gao, Jian Ma, Lei Li. Ubiquitination-directed cytosolic DNA degradation governs cGAS-STING-mediated immune response to DNA damage. Cancer Cell (2026)
 
-4. Yang Yi, Joshua Fry, Chaehyun Yum, Rui Wang, Siqi Wu, Sharath Narayan, Qi Liu, Xingxing Zhang, Htoo Zarni Oo, Ning Xie, **Yanqiang Li**, Xinlei Gao, Xufen Yu, Xiaoping Hu, Qiaqia Li, Kemal Keseroglu, Ertuğrul M. Özbudak, Sarki A. Abdulkadir, Kaifu Chen, Jian Jin, Jonathan C. Zhao, Xuesen Dong, Daniel Arango, Rendong Yang, Qi Cao. **Crosstalk between EZH2 and m6A promotes prostate cancer progression through modulating an m6A autoregulation pathway.** The Journal of Clinical Investigation 2025 Nov 18:e195840 (2026)
+5. Yang Yi, Joshua Fry, Chaehyun Yum, Rui Wang, Siqi Wu, Sharath Narayan, Qi Liu, Xingxing Zhang, Htoo Zarni Oo, Ning Xie, **Yanqiang Li**, Xinlei Gao, Xufen Yu, Xiaoping Hu, Qiaqia Li, Kemal Keseroglu, Ertuğrul M. Özbudak, Sarki A. Abdulkadir, Kaifu Chen, Jian Jin, Jonathan C. Zhao, Xuesen Dong, Daniel Arango, Rendong Yang, Qi Cao. **Crosstalk between EZH2 and m6A promotes prostate cancer progression through modulating an m6A autoregulation pathway.** The Journal of Clinical Investigation 2025 Nov 18:e195840 (2026)
 
-5. Shuang Li, Alexander J. Lu, Michael Graber, **Yanqiang Li**, Kaylee Carter, Elisa Morales, Eric Nagueh, Crystina L. Kriss, Kaifu Chen, John P. Cooke^, Li Lai^. O-GlcNAcylation promotes angiogenic transdifferentiation to reverse ischemia. Nature Cardiovascular Research (2025):1-17
+6. Shuang Li, Alexander J. Lu, Michael Graber, **Yanqiang Li**, Kaylee Carter, Elisa Morales, Eric Nagueh, Crystina L. Kriss, Kaifu Chen, John P. Cooke^, Li Lai^. O-GlcNAcylation promotes angiogenic transdifferentiation to reverse ischemia. Nature Cardiovascular Research (2025):1-17
 
-6. **Yanqiang Li**^, Jiayi Chen, Yunxia Wang, Dean Li, Jiahan Li, Yang Yi, Lili Zhang, Qi Cao, Kaifu Chen^. **Protocol for mapping 2’O-Methylation using nanopore direct RNA-seq data with NanoNm.** STAR Protocols 6(3):104003 (2025)
+7. **Yanqiang Li**^, Jiayi Chen, Yunxia Wang, Dean Li, Jiahan Li, Yang Yi, Lili Zhang, Qi Cao, Kaifu Chen^. **Protocol for mapping 2’O-Methylation using nanopore direct RNA-seq data with NanoNm.** STAR Protocols 6(3):104003 (2025)
 
-7. **Yanqiang Li**†, Yang Yi†, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.** Molecular Cell 84(12):2320-2336 (2024)
+8. **Yanqiang Li**†, Yang Yi†, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.** Molecular Cell 84(12):2320-2336 (2024)
 
-8. Qingshu Meng, Jiangchuan Shen, Yanan Ren, Qi Liu, Rui Wang, Qiaqia Li, Weihua Jiang, Quan Wang, Yixiang Zhang, Jonathan C Trinidad, Xiaotong Lu, Tingyou Wang, **Yanqiang Li**, Chaehyun Yum, Yang Yi, Yongyong Yang, Dongyu Zhao, Clair Harris, Sundeep Kalantry, Kaifu Chen, Rendong Yang, Hengyao Niu, Qi Cao. EZH2 directly methylates PARP1 and regulates its activity in cancer. Science Advances 10(48):eadl2804 (2024)
+9. Qingshu Meng, Jiangchuan Shen, Yanan Ren, Qi Liu, Rui Wang, Qiaqia Li, Weihua Jiang, Quan Wang, Yixiang Zhang, Jonathan C Trinidad, Xiaotong Lu, Tingyou Wang, **Yanqiang Li**, Chaehyun Yum, Yang Yi, Yongyong Yang, Dongyu Zhao, Clair Harris, Sundeep Kalantry, Kaifu Chen, Rendong Yang, Hengyao Niu, Qi Cao. EZH2 directly methylates PARP1 and regulates its activity in cancer. Science Advances 10(48):eadl2804 (2024)
 
-9. Kaiyuan Wu†, **Yanqiang Li**†^, Yang Yi, Yang Yu, Yunxia Wang, Lili Zhang, Qi Cao, Kaifu Chen^. **The detection, function, and therapeutic potential of RNA 2'-O-methylation.** The Innovation Life 3(1):100112 (2025)
+10. Kaiyuan Wu†, **Yanqiang Li**†^, Yang Yi, Yang Yu, Yunxia Wang, Lili Zhang, Qi Cao, Kaifu Chen^. **The detection, function, and therapeutic potential of RNA 2'-O-methylation.** The Innovation Life 3(1):100112 (2025)
 
-10. Xinlei Gao, Yang Yi, Jie Lv, **Yanqiang Li**, Arulsamy K, Sahana Suresh Babu, Ivone Bruno, Lili Zhang, Qi Cao, Kaifu Chen. Low RNA stability signifies strong expression regulatability of tumor suppressors. Nucleic Acids Research 51(21):11534–11548 (2023)
+11. Xinlei Gao, Yang Yi, Jie Lv, **Yanqiang Li**, Arulsamy K, Sahana Suresh Babu, Ivone Bruno, Lili Zhang, Qi Cao, Kaifu Chen. Low RNA stability signifies strong expression regulatability of tumor suppressors. Nucleic Acids Research 51(21):11534–11548 (2023)
 
-11. Yifan Lv†, Fan Xia†, Jing Yu†, Yunlu Sheng, Yi Jin, **Yanqiang Li**^, Guoxian Ding^. **Distinct response of adipocyte progenitors to glucocorticoids determines visceral obesity via the TEAD1-miR-27b-PRDM16 axis**. Obesity 31(9):2335-2348 (2023)
+12. Yifan Lv†, Fan Xia†, Jing Yu†, Yunlu Sheng, Yi Jin, **Yanqiang Li**^, Guoxian Ding^. **Distinct response of adipocyte progenitors to glucocorticoids determines visceral obesity via the TEAD1-miR-27b-PRDM16 axis**. Obesity 31(9):2335-2348 (2023)
 
-12. Yang Yi, **Yanqiang Li**, Kaifu Chen, Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget 14:127 (2023)
+13. Yang Yi, **Yanqiang Li**, Kaifu Chen, Qi Cao. Unveiling the non-canonical functions of EZH2 in prostate cancer. Oncotarget 14:127 (2023)
 
-13. Jie Lv, Shu Meng, Qilin Gu, Rongbin Zheng, Xinlei Gao, Jun-dae Kim, Min Chen, Bo Xia, Yihan Zuo, Sen Zhu, Dongyu Zhao, **Yanqiang Li**, Guangyu Wang, Xin Wang, Qingshu Meng, Qi Cao, John P. Cooke, Longhou Fang, Kaifu Chen & Lili Zhang. Epigenetic landscape reveals MECOM as an endothelial lineage regulator. Nature Communications 14(1):2390 (2023)
+14. Jie Lv, Shu Meng, Qilin Gu, Rongbin Zheng, Xinlei Gao, Jun-dae Kim, Min Chen, Bo Xia, Yihan Zuo, Sen Zhu, Dongyu Zhao, **Yanqiang Li**, Guangyu Wang, Xin Wang, Qingshu Meng, Qi Cao, John P. Cooke, Longhou Fang, Kaifu Chen & Lili Zhang. Epigenetic landscape reveals MECOM as an endothelial lineage regulator. Nature Communications 14(1):2390 (2023)
 
-14. **Yanqiang Li**†, Yang Yi†, Jie Lv, Xinlei Gao, Yang Yu, Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Hong Chen, Qi Cao^, Lili Zhang^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene expression.** Nucleic Acids Research 51(12):6020-6038 (2023)
+15. **Yanqiang Li**†, Yang Yi†, Jie Lv, Xinlei Gao, Yang Yu, Sahana Suresh Babu, Ivone Bruno, Dongyu Zhao, Bo Xia, Hong Chen, Qi Cao^, Lili Zhang^, Kaifu Chen^. **Low RNA stability signifies increased post-transcriptional regulation of cell identity gene expression.** Nucleic Acids Research 51(12):6020-6038 (2023)
 
-15. Yang Yi†, **Yanqiang Li**†, Chao Li†, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **Methylation-dependent and -independent roles of EZH2 coordinately contribute to CDCA8 activation in prostate cancer**. Oncogene (2022)
+16. Yang Yi†, **Yanqiang Li**†, Chao Li†, Longxiang Wu, Dongyu Zhao, Fuxi Li, Ladan Fazli, Rui Wang, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **Methylation-dependent and -independent roles of EZH2 coordinately contribute to CDCA8 activation in prostate cancer**. Oncogene (2022)
 
-16. **Yanqiang Li**^, Jia Meng, Dongyu Zhao. Editorial: RNA editing and modification in development and diseases. Frontiers in Genetics 12 (2022)
+17. **Yanqiang Li**^, Jia Meng, Dongyu Zhao. Editorial: RNA editing and modification in development and diseases. Frontiers in Genetics 12 (2022)
 
-17. Dongyu Zhao†, Min Zhang†, Shaodong Liu, Qi Liu, Sen Zhu, **Yanqiang Li**, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang^, Kaifu Chen^. CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells. Nucleic Acids Research 50(21):12186-12201 (2022)
+18. Dongyu Zhao†, Min Zhang†, Shaodong Liu, Qi Liu, Sen Zhu, **Yanqiang Li**, Weihua Jiang, Dan Kiss, Qi Cao^, Lili Zhang^, Kaifu Chen^. CHD6 Promotes Broad Nucleosome Eviction for Transcriptional Activation in Prostate Cancer Cells. Nucleic Acids Research 50(21):12186-12201 (2022)
 
-18. Yang Yi†, **Yanqiang Li**†, Qingshu Meng†, Qiaqia Li, Fuxi Li, Bing Lu, Jiangchuan Shen, Ladan Fazli, Dongyu Zhao, Chao Li, Weihua Jiang, Rui Wang, Qipeng Liu, Aileen Szczepanski, Qianru Li, Wei Qin, Adam B. Weiner, Tamara L. Lotan, Zhe Ji, Sundeep Kalantry, Lu Wang, Edward M. Schaeffer, Hengyao Niu, Kaifu Chen^, Qi Cao^. **A PRC2-independent function for EZH2 in regulating rRNA 2′-O methylation and IRES-dependent translation.** Nature Cell Biology 23:341–354 (2021)
+19. Yang Yi†, **Yanqiang Li**†, Qingshu Meng†, Qiaqia Li, Fuxi Li, Bing Lu, Jiangchuan Shen, Ladan Fazli, Dongyu Zhao, Chao Li, Weihua Jiang, Rui Wang, Qipeng Liu, Aileen Szczepanski, Qianru Li, Wei Qin, Adam B. Weiner, Tamara L. Lotan, Zhe Ji, Sundeep Kalantry, Lu Wang, Edward M. Schaeffer, Hengyao Niu, Kaifu Chen^, Qi Cao^. **A PRC2-independent function for EZH2 in regulating rRNA 2′-O methylation and IRES-dependent translation.** Nature Cell Biology 23:341–354 (2021)
 
-19. **Yanqiang Li**^, Hyang-Min Byun, Timothy M Barrow, Qiang Zhang^. Editorial: Environmental Genomics and Epigenomics: Response, Development and Disease. Frontiers in Genetics 12 (2021)
+20. **Yanqiang Li**^, Hyang-Min Byun, Timothy M Barrow, Qiang Zhang^. Editorial: Environmental Genomics and Epigenomics: Response, Development and Disease. Frontiers in Genetics 12 (2021)
 
-20. Guangyu Wang, Bo Xia, Zhou M, Jie Lv, Dongyu Zhao, **Yanqiang Li**, Yiwen Bu, Xin Wang, John P. Cooke,Qi Cao, Min Gyu Lee, Lili Zhang, Kaifu Chen.  MACMIC reveals a dual role of CTCF in epigenetic regulation of cell identity genes. Genomics, Proteomics & Bioinformatics 19(1):140–153 (2021)
+21. Guangyu Wang, Bo Xia, Zhou M, Jie Lv, Dongyu Zhao, **Yanqiang Li**, Yiwen Bu, Xin Wang, John P. Cooke,Qi Cao, Min Gyu Lee, Lili Zhang, Kaifu Chen.  MACMIC reveals a dual role of CTCF in epigenetic regulation of cell identity genes. Genomics, Proteomics & Bioinformatics 19(1):140–153 (2021)
 
-21. Bo Xia†, Dongyu Zhao†, Guangyu Wang†, Min Zhang, Jie Lv, Alin S. Tomoiaga, **Yanqiang Li**, Xin Wang, Shu Meng, John P. Cooke, Qi Cao^, Lili Zhang^, Kaifu Chen^. Machine learning reveals cell identity regulator by histone codes. Nature Communications 11:2696 (2020)
+22. Bo Xia†, Dongyu Zhao†, Guangyu Wang†, Min Zhang, Jie Lv, Alin S. Tomoiaga, **Yanqiang Li**, Xin Wang, Shu Meng, John P. Cooke, Qi Cao^, Lili Zhang^, Kaifu Chen^. Machine learning reveals cell identity regulator by histone codes. Nature Communications 11:2696 (2020)
 
-22. Guangyu Wang, Qingshu Meng, Bo Xia, Jie Lu, Dongyu Zhao, **Yanqiang Li**, Xin Wang, Lili Zhang, John P. Cooke, Qi Cao^, Kaifu Chen^. TADsplimer reveals splits and mergers of topologically associating domains for epigenetic regulation of transcription. Genome Biology 21:84 (2020)
+23. Guangyu Wang, Qingshu Meng, Bo Xia, Jie Lu, Dongyu Zhao, **Yanqiang Li**, Xin Wang, Lili Zhang, John P. Cooke, Qi Cao^, Kaifu Chen^. TADsplimer reveals splits and mergers of topologically associating domains for epigenetic regulation of transcription. Genome Biology 21:84 (2020)
 
-23. Dana M Freeman, Dan Lou, **Yanqiang Li**, SN Martos, Zhibin Wang. The conserved DNMT1-dependent methylation regions in human cells are vulnerable to neurotoxicant rotenone exposure. Epigenetics & Chromatin 13(1):116 (2020)
+24. Dana M Freeman, Dan Lou, **Yanqiang Li**, SN Martos, Zhibin Wang. The conserved DNMT1-dependent methylation regions in human cells are vulnerable to neurotoxicant rotenone exposure. Epigenetics & Chromatin 13(1):116 (2020)
 
-24. Jianyu Zhao, Li Jiang, Gen Che, Yupeng Pan, **Yanqiang Li**, Yu Hou, Wensheng Zhao, Yanting Zhong, Lian Ding, Shuangshuang Yan, Chengzhen Sun, Renyi Liu, Liying Yan, Tao Wu, Xuexian Li, Yiqun Weng, Xiaolan Zhang^. A functional allele of CsFUL1 regulates fruit length through repressing CsSUP and inhibiting auxin transport in cucumber. The Plant Cell 31(6):1289-1300 (2019)
+25. Jianyu Zhao, Li Jiang, Gen Che, Yupeng Pan, **Yanqiang Li**, Yu Hou, Wensheng Zhao, Yanting Zhong, Lian Ding, Shuangshuang Yan, Chengzhen Sun, Renyi Liu, Liying Yan, Tao Wu, Xuexian Li, Yiqun Weng, Xiaolan Zhang^. A functional allele of CsFUL1 regulates fruit length through repressing CsSUP and inhibiting auxin transport in cucumber. The Plant Cell 31(6):1289-1300 (2019)
     
 26. Yan Zhu†, **Yanqiang Li**†, Dan Lou, Yang Gao, Jing Yu, Dehui Kong, Qiang Zhang, Yankai Jia, Haimou Zhang, Zhibin Wang^. Arsenite exposure inhibits histone acetyltransferase p300. Toxicology and Applied Pharmacology 357:70-79 (2018)
 
