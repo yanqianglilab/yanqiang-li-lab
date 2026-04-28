@@ -24,8 +24,6 @@ permalink: /publications/
 
 8. **Yanqiang Li**^, Jiayi Chen, Yunxia Wang, Dean Li, Jiahan Li, Yang Yi, Lili Zhang, Qi Cao, Kaifu Chen^. **Protocol for mapping 2’O-Methylation using nanopore direct RNA-seq data with NanoNm.** STAR Protocols 6(3):104003 (2025)
 
-***Before March 2025.***
-
 10. Kaiyuan Wu†, **Yanqiang Li**†^, Yang Yi, Yang Yu, Yunxia Wang, Lili Zhang, Qi Cao, Kaifu Chen^. **The detection, function, and therapeutic potential of RNA 2'-O-methylation.** The Innovation Life 3(1):100112 (2025)
 
 11. **Yanqiang Li**†, Yang Yi†, Xinlei Gao, Xin Wang, Dongyu Zhao, Rui Wang, Li-Sheng Zhang, Boyang Gao, Yadong Zhang, Lili Zhang, Qi Cao^, Kaifu Chen^. **2'-O-Methylation at internal sites on mRNA promotes mRNA stability.** Molecular Cell 84(12):2320-2336 (2024)
