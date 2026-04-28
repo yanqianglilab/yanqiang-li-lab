@@ -8,6 +8,11 @@ nav:
 ---
 
 ## 2026
+
+**Apr 2026**  
+
+We are delighted to share exciting news: our review paper, “Nanopore Direct RNA Sequencing and the Epitranscriptome: Advances in Mapping Native RNA Landscapes” has been accepted for publication in *iMeta* on Apr 27! 
+
 **Mar 2026**  
 
 We are pleased to welcome Huanmin Jiao to join our lab as a Research Assistant! 
