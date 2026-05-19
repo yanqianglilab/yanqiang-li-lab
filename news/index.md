@@ -11,7 +11,7 @@ nav:
 
 **Apr 2026**  
 
-We are delighted to share exciting news: our review paper, “Nanopore Direct RNA Sequencing and the Epitranscriptome: Advances in Mapping Native RNA Landscapes” has been accepted for publication in *iMeta* on Apr 27. Congratulations to Hang, Yaxuan and Yang!
+We are delighted to share exciting news: our review paper, “Nanopore Direct RNA Sequencing and the Epitranscriptome: Advances in Mapping Native RNA Landscapes” has been accepted for publication in *iMeta*. Congratulations to Hang, Yaxuan and Yang!
 
 **Mar 2026**  
 
