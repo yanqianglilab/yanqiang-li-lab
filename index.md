@@ -62,6 +62,8 @@ See <a href="{{ "/research/" | relative_url }}">Research</a> for details.
 <h3>Selected Publications</h3>
 
 <ul class="list-tight">
+
+<li><b>2026</b>. Nanopore Direct RNA Sequencing and the Epitranscriptome: Advances in Mapping Native RNA Landscapes. <i>iMeta</i>.</li>
   
 <li><b>2026</b>. Adenosylhomocysteinase–adenosine complex links m6A and cancer lipid metabolism. <i>Trends in Biochemical Sciences</i>.</li>
   
