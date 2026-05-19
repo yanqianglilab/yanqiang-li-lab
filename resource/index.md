@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-tools"></i>Software and Database
 
-**[DRS_RNA_landscape](https://zhangtianyuan666.github.io/DRS_doc) (iMeta, 2026):**
+**[DRS_RNA_landscape](https://zhangtianyuan666.github.io/DRS_doc) (iMeta, 2026, in press):**
 Nanopore direct RNA sequencing and the epitranscriptome: Advances in mapping native RNA landscapes.
 
 **[NanoNm](https://github.com/kaifuchenlab/NanoNm) (Molecular Cell, 2024):**
