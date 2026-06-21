@@ -9,6 +9,10 @@ nav:
 
 ## 2026
 
+**May 2026**  
+
+Yanqiang was invited to deliver an oral presentation focused on nanopore-based profiling of RNA 2′-O-methylation at WYMM Tour: Beijing 2026, held in Beijing on May 28. Event webpage: https://nanoporetech.com/zh/about/events/nanopore-days/wymm-beijing-2026 
+
 **Apr 2026**  
 
 We are delighted to share exciting news: our review paper, “Nanopore Direct RNA Sequencing and the Epitranscriptome: Advances in Mapping Native RNA Landscapes” has been accepted for publication in *iMeta*. Congratulations to Hang, Yaxuan and Yang!
