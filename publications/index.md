@@ -16,7 +16,7 @@ permalink: /publications/
 
 4. **Hang Qin**, **Yajie Qi**, **Yanqiang Li**†. **Adenosylhomocysteinase–adenosine complex links m6A and cancer lipid metabolism.** Trends in Biochemical Sciences.  10.1016/j.tibs.2026.02.016. (2026)
 
-5.  Yang Yi†, **Yanqiang Li**†, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR.** Nature Communications (in press, 2026)
+5.  Yang Yi†, **Yanqiang Li**†, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR.** Nature Communications 17,4421 (2026)
 
 6. Lei Li, Qi Ye, Jinlu Ma, Zixi Wang, Tianjie Liu, Yuzeshi Lei, Mingming Lu, Jialu Kang, Haohan Xiang, Buyun Li, Shan Xu, Ke Wang, Yule Chen, Jiaqi Chen, Bohan Ma, Wenyue Huang, Mengjiao Cai, Nan Wu, **Yanqiang Li**, Jiale An, Chongming Jiang, Rui Ye, Jing Liu, Steven H. Lin, Yang Gao, Jian Ma, Lei Li. Ubiquitination-directed cytosolic DNA degradation governs cGAS-STING-mediated immune response to DNA damage. Cancer Cell (2026)
 
