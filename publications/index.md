@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Papers
 
-1. Zhi-Can Fu†, Chuanxin Zhang†, Yelian Yan, Yuxin Xu, Xiaoyu Yin, Tietuo Tao, Peng Lu, Yalin Liang, Haiyang Wu, Wentao Cui, Runtong Hou, Xuepeng Chen, Yuwen Ke, **Yanqiang Li^**, Zi-Jiang Chen^, Tao Huang^, Keliang Wu^, Shenli Yuan^. ANCHOR: haplotype-aware allelic and isoform inference from single-cell long-read RNA sequencing with de novo variant calling. https://doi.org/10.64898/2026.06.08.730656
+1. Zhi-Can Fu†, Chuanxin Zhang†, Yelian Yan, Yuxin Xu, Xiaoyu Yin, Tietuo Tao, Peng Lu, Yalin Liang, Haiyang Wu, Wentao Cui, Runtong Hou, Xuepeng Chen, Yuwen Ke, **Yanqiang Li^**, Zi-Jiang Chen^, Tao Huang^, Keliang Wu^, Shenli Yuan^. ANCHOR: haplotype-aware allelic and isoform inference from single-cell long-read RNA sequencing with de novo variant calling. (Preprint 2026). https://doi.org/10.64898/2026.06.08.730656
 
 2.   **Tianyuan Zhang**†^, Jia Li†, Chao Tang†, You Wu†, Hao Wu†, Xi-Tong Zhu†, Ziyang Luo†, **Hang Qin**†, Lishan Ding†, Yu Zeng, Shiou Yih Lee, Xiaotao Shen, Shiwen Gao, Zhaoyang Tian, Qian Tang, Mian Li, Muhammad Tahir Ul Qamar, **Yang Dong**, Komivi Dossa, **Yaxuan Zhang**, Hu Chen^, Sanqi An^, Xiang Yu^, Lu Chen^, Dingjie Wang^, Shengli Li^, Ling-Ling Chen^, **Yanqiang Li**^. Nanopore Direct RNA Sequencing and the Epitranscriptome: Advances in Mapping Native RNA Landscapes. iMeta. (Accepted, 2026)
 
