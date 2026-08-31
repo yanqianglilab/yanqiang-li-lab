@@ -9,6 +9,14 @@ nav:
 
 ## 2026
 
+**Aug 2026**
+
+Great news! Our lab has recently received funding from the National Natural Science Foundation of China (NSFC) for our project investigating RNA modifications in renal cancer. 
+
+**July 2026**
+
+Yanqiang was invited to deliver an oral presentation focusing on the biological functions of RNA 2′-O-methylation at the 8th National Young-Scholar Conference on Ribonucleic Acid (RNA), 2026 in Hohhot.
+
 **May 2026**  
 
 Yanqiang was invited to deliver an oral presentation focused on nanopore-based profiling of RNA 2′-O-methylation at WYMM Tour: Beijing 2026, held in Beijing on May 28. https://nanoporetech.com/zh/about/events/nanopore-days/wymm-beijing-2026 
